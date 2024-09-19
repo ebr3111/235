@@ -1,0 +1,27 @@
+header {
+    color: #C1595C
+    
+}
+
+h2 {
+    color: #D58587
+}
+
+body
+{
+    background-color: #91AB98;
+}
+
+p {
+    color: #5B5845;
+    margin-left: 100PX;
+}
+
+hr {
+    color: #91AB98;
+}
+
+img.side {
+    float: right;
+    margin: 0 12px;
+}
